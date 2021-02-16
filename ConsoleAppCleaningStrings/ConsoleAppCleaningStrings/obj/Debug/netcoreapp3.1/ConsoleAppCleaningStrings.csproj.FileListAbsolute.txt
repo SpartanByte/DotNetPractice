@@ -1,0 +1,12 @@
+C:\Users\Brian\Code\DotNetPractice\ConsoleAppCleaningStrings\ConsoleAppCleaningStrings\bin\Debug\netcoreapp3.1\ConsoleAppCleaningStrings.exe
+C:\Users\Brian\Code\DotNetPractice\ConsoleAppCleaningStrings\ConsoleAppCleaningStrings\bin\Debug\netcoreapp3.1\ConsoleAppCleaningStrings.deps.json
+C:\Users\Brian\Code\DotNetPractice\ConsoleAppCleaningStrings\ConsoleAppCleaningStrings\bin\Debug\netcoreapp3.1\ConsoleAppCleaningStrings.runtimeconfig.json
+C:\Users\Brian\Code\DotNetPractice\ConsoleAppCleaningStrings\ConsoleAppCleaningStrings\bin\Debug\netcoreapp3.1\ConsoleAppCleaningStrings.runtimeconfig.dev.json
+C:\Users\Brian\Code\DotNetPractice\ConsoleAppCleaningStrings\ConsoleAppCleaningStrings\bin\Debug\netcoreapp3.1\ConsoleAppCleaningStrings.dll
+C:\Users\Brian\Code\DotNetPractice\ConsoleAppCleaningStrings\ConsoleAppCleaningStrings\bin\Debug\netcoreapp3.1\ConsoleAppCleaningStrings.pdb
+C:\Users\Brian\Code\DotNetPractice\ConsoleAppCleaningStrings\ConsoleAppCleaningStrings\obj\Debug\netcoreapp3.1\ConsoleAppCleaningStrings.AssemblyInfoInputs.cache
+C:\Users\Brian\Code\DotNetPractice\ConsoleAppCleaningStrings\ConsoleAppCleaningStrings\obj\Debug\netcoreapp3.1\ConsoleAppCleaningStrings.AssemblyInfo.cs
+C:\Users\Brian\Code\DotNetPractice\ConsoleAppCleaningStrings\ConsoleAppCleaningStrings\obj\Debug\netcoreapp3.1\ConsoleAppCleaningStrings.csproj.CoreCompileInputs.cache
+C:\Users\Brian\Code\DotNetPractice\ConsoleAppCleaningStrings\ConsoleAppCleaningStrings\obj\Debug\netcoreapp3.1\ConsoleAppCleaningStrings.dll
+C:\Users\Brian\Code\DotNetPractice\ConsoleAppCleaningStrings\ConsoleAppCleaningStrings\obj\Debug\netcoreapp3.1\ConsoleAppCleaningStrings.pdb
+C:\Users\Brian\Code\DotNetPractice\ConsoleAppCleaningStrings\ConsoleAppCleaningStrings\obj\Debug\netcoreapp3.1\ConsoleAppCleaningStrings.genruntimeconfig.cache
