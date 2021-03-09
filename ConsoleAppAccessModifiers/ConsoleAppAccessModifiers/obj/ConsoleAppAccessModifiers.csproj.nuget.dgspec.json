@@ -1,23 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Brian\\Code\\DotNetPractice\\ConsoleAccessModifiers\\ConsoleAppAccessModifiers\\ConsoleAppAccessModifiers\\ConsoleAppAccessModifiers.csproj": {}
+    "C:\\Users\\briwa\\Code\\DotNetPractice\\ConsoleAppAccessModifiers\\ConsoleAppAccessModifiers\\ConsoleAppAccessModifiers.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Brian\\Code\\DotNetPractice\\ConsoleAccessModifiers\\ConsoleAppAccessModifiers\\ConsoleAppAccessModifiers\\ConsoleAppAccessModifiers.csproj": {
+    "C:\\Users\\briwa\\Code\\DotNetPractice\\ConsoleAppAccessModifiers\\ConsoleAppAccessModifiers\\ConsoleAppAccessModifiers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Brian\\Code\\DotNetPractice\\ConsoleAccessModifiers\\ConsoleAppAccessModifiers\\ConsoleAppAccessModifiers\\ConsoleAppAccessModifiers.csproj",
+        "projectUniqueName": "C:\\Users\\briwa\\Code\\DotNetPractice\\ConsoleAppAccessModifiers\\ConsoleAppAccessModifiers\\ConsoleAppAccessModifiers.csproj",
         "projectName": "ConsoleAppAccessModifiers",
-        "projectPath": "C:\\Users\\Brian\\Code\\DotNetPractice\\ConsoleAccessModifiers\\ConsoleAppAccessModifiers\\ConsoleAppAccessModifiers\\ConsoleAppAccessModifiers.csproj",
-        "packagesPath": "C:\\Users\\Brian\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Brian\\Code\\DotNetPractice\\ConsoleAccessModifiers\\ConsoleAppAccessModifiers\\ConsoleAppAccessModifiers\\obj\\",
+        "projectPath": "C:\\Users\\briwa\\Code\\DotNetPractice\\ConsoleAppAccessModifiers\\ConsoleAppAccessModifiers\\ConsoleAppAccessModifiers.csproj",
+        "packagesPath": "C:\\Users\\briwa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\briwa\\Code\\DotNetPractice\\ConsoleAppAccessModifiers\\ConsoleAppAccessModifiers\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Brian\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\briwa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -58,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }

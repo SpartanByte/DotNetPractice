@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ConsoleAppFullyQualifiedNames/1.0.0": {
+        "dependencies": {
+          "ComputingServices": "1.0.0"
+        },
+        "runtime": {
+          "ConsoleAppFullyQualifiedNames.dll": {}
+        }
+      },
+      "ComputingServices/1.0.0": {
+        "runtime": {
+          "ComputingServices.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleAppFullyQualifiedNames/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ComputingServices/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

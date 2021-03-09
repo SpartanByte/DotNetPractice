@@ -1,0 +1,13 @@
+C:\Users\briwa\Code\DotNetPractice\ConsoleAppSimpleDirectoryView\ConsoleAppSimpleDirectoryView\bin\Debug\netcoreapp3.1\ConsoleAppSimpleDirectoryView.exe
+C:\Users\briwa\Code\DotNetPractice\ConsoleAppSimpleDirectoryView\ConsoleAppSimpleDirectoryView\bin\Debug\netcoreapp3.1\ConsoleAppSimpleDirectoryView.deps.json
+C:\Users\briwa\Code\DotNetPractice\ConsoleAppSimpleDirectoryView\ConsoleAppSimpleDirectoryView\bin\Debug\netcoreapp3.1\ConsoleAppSimpleDirectoryView.runtimeconfig.json
+C:\Users\briwa\Code\DotNetPractice\ConsoleAppSimpleDirectoryView\ConsoleAppSimpleDirectoryView\bin\Debug\netcoreapp3.1\ConsoleAppSimpleDirectoryView.runtimeconfig.dev.json
+C:\Users\briwa\Code\DotNetPractice\ConsoleAppSimpleDirectoryView\ConsoleAppSimpleDirectoryView\bin\Debug\netcoreapp3.1\ConsoleAppSimpleDirectoryView.dll
+C:\Users\briwa\Code\DotNetPractice\ConsoleAppSimpleDirectoryView\ConsoleAppSimpleDirectoryView\bin\Debug\netcoreapp3.1\ConsoleAppSimpleDirectoryView.pdb
+C:\Users\briwa\Code\DotNetPractice\ConsoleAppSimpleDirectoryView\ConsoleAppSimpleDirectoryView\obj\Debug\netcoreapp3.1\ConsoleAppSimpleDirectoryView.csprojAssemblyReference.cache
+C:\Users\briwa\Code\DotNetPractice\ConsoleAppSimpleDirectoryView\ConsoleAppSimpleDirectoryView\obj\Debug\netcoreapp3.1\ConsoleAppSimpleDirectoryView.AssemblyInfoInputs.cache
+C:\Users\briwa\Code\DotNetPractice\ConsoleAppSimpleDirectoryView\ConsoleAppSimpleDirectoryView\obj\Debug\netcoreapp3.1\ConsoleAppSimpleDirectoryView.AssemblyInfo.cs
+C:\Users\briwa\Code\DotNetPractice\ConsoleAppSimpleDirectoryView\ConsoleAppSimpleDirectoryView\obj\Debug\netcoreapp3.1\ConsoleAppSimpleDirectoryView.csproj.CoreCompileInputs.cache
+C:\Users\briwa\Code\DotNetPractice\ConsoleAppSimpleDirectoryView\ConsoleAppSimpleDirectoryView\obj\Debug\netcoreapp3.1\ConsoleAppSimpleDirectoryView.dll
+C:\Users\briwa\Code\DotNetPractice\ConsoleAppSimpleDirectoryView\ConsoleAppSimpleDirectoryView\obj\Debug\netcoreapp3.1\ConsoleAppSimpleDirectoryView.pdb
+C:\Users\briwa\Code\DotNetPractice\ConsoleAppSimpleDirectoryView\ConsoleAppSimpleDirectoryView\obj\Debug\netcoreapp3.1\ConsoleAppSimpleDirectoryView.genruntimeconfig.cache
