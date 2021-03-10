@@ -1,0 +1,12 @@
+C:\Users\Brian\Code\DotNetPractice\ConsoleAppLamda\ConsoleAppLamda\bin\Debug\netcoreapp3.1\ConsoleAppLamda.exe
+C:\Users\Brian\Code\DotNetPractice\ConsoleAppLamda\ConsoleAppLamda\bin\Debug\netcoreapp3.1\ConsoleAppLamda.deps.json
+C:\Users\Brian\Code\DotNetPractice\ConsoleAppLamda\ConsoleAppLamda\bin\Debug\netcoreapp3.1\ConsoleAppLamda.runtimeconfig.json
+C:\Users\Brian\Code\DotNetPractice\ConsoleAppLamda\ConsoleAppLamda\bin\Debug\netcoreapp3.1\ConsoleAppLamda.runtimeconfig.dev.json
+C:\Users\Brian\Code\DotNetPractice\ConsoleAppLamda\ConsoleAppLamda\bin\Debug\netcoreapp3.1\ConsoleAppLamda.dll
+C:\Users\Brian\Code\DotNetPractice\ConsoleAppLamda\ConsoleAppLamda\bin\Debug\netcoreapp3.1\ConsoleAppLamda.pdb
+C:\Users\Brian\Code\DotNetPractice\ConsoleAppLamda\ConsoleAppLamda\obj\Debug\netcoreapp3.1\ConsoleAppLamda.AssemblyInfoInputs.cache
+C:\Users\Brian\Code\DotNetPractice\ConsoleAppLamda\ConsoleAppLamda\obj\Debug\netcoreapp3.1\ConsoleAppLamda.AssemblyInfo.cs
+C:\Users\Brian\Code\DotNetPractice\ConsoleAppLamda\ConsoleAppLamda\obj\Debug\netcoreapp3.1\ConsoleAppLamda.csproj.CoreCompileInputs.cache
+C:\Users\Brian\Code\DotNetPractice\ConsoleAppLamda\ConsoleAppLamda\obj\Debug\netcoreapp3.1\ConsoleAppLamda.dll
+C:\Users\Brian\Code\DotNetPractice\ConsoleAppLamda\ConsoleAppLamda\obj\Debug\netcoreapp3.1\ConsoleAppLamda.pdb
+C:\Users\Brian\Code\DotNetPractice\ConsoleAppLamda\ConsoleAppLamda\obj\Debug\netcoreapp3.1\ConsoleAppLamda.genruntimeconfig.cache
