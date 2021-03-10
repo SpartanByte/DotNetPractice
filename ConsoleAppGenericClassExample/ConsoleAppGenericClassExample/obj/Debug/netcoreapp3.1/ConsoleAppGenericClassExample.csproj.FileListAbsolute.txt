@@ -1,0 +1,12 @@
+C:\Users\Brian\Code\DotNetPractice\ConsoleAppGenericClassExample\ConsoleAppGenericClassExample\bin\Debug\netcoreapp3.1\ConsoleAppGenericClassExample.exe
+C:\Users\Brian\Code\DotNetPractice\ConsoleAppGenericClassExample\ConsoleAppGenericClassExample\bin\Debug\netcoreapp3.1\ConsoleAppGenericClassExample.deps.json
+C:\Users\Brian\Code\DotNetPractice\ConsoleAppGenericClassExample\ConsoleAppGenericClassExample\bin\Debug\netcoreapp3.1\ConsoleAppGenericClassExample.runtimeconfig.json
+C:\Users\Brian\Code\DotNetPractice\ConsoleAppGenericClassExample\ConsoleAppGenericClassExample\bin\Debug\netcoreapp3.1\ConsoleAppGenericClassExample.runtimeconfig.dev.json
+C:\Users\Brian\Code\DotNetPractice\ConsoleAppGenericClassExample\ConsoleAppGenericClassExample\bin\Debug\netcoreapp3.1\ConsoleAppGenericClassExample.dll
+C:\Users\Brian\Code\DotNetPractice\ConsoleAppGenericClassExample\ConsoleAppGenericClassExample\bin\Debug\netcoreapp3.1\ConsoleAppGenericClassExample.pdb
+C:\Users\Brian\Code\DotNetPractice\ConsoleAppGenericClassExample\ConsoleAppGenericClassExample\obj\Debug\netcoreapp3.1\ConsoleAppGenericClassExample.AssemblyInfoInputs.cache
+C:\Users\Brian\Code\DotNetPractice\ConsoleAppGenericClassExample\ConsoleAppGenericClassExample\obj\Debug\netcoreapp3.1\ConsoleAppGenericClassExample.AssemblyInfo.cs
+C:\Users\Brian\Code\DotNetPractice\ConsoleAppGenericClassExample\ConsoleAppGenericClassExample\obj\Debug\netcoreapp3.1\ConsoleAppGenericClassExample.csproj.CoreCompileInputs.cache
+C:\Users\Brian\Code\DotNetPractice\ConsoleAppGenericClassExample\ConsoleAppGenericClassExample\obj\Debug\netcoreapp3.1\ConsoleAppGenericClassExample.dll
+C:\Users\Brian\Code\DotNetPractice\ConsoleAppGenericClassExample\ConsoleAppGenericClassExample\obj\Debug\netcoreapp3.1\ConsoleAppGenericClassExample.pdb
+C:\Users\Brian\Code\DotNetPractice\ConsoleAppGenericClassExample\ConsoleAppGenericClassExample\obj\Debug\netcoreapp3.1\ConsoleAppGenericClassExample.genruntimeconfig.cache

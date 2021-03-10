@@ -1,0 +1,16 @@
+C:\Users\briwa\Code\DotNetPractice\ConsoleAppFullyQualifiedNames\ConsoleAppFullyQualifiedNames\bin\Debug\netcoreapp3.1\ConsoleAppFullyQualifiedNames.exe
+C:\Users\briwa\Code\DotNetPractice\ConsoleAppFullyQualifiedNames\ConsoleAppFullyQualifiedNames\bin\Debug\netcoreapp3.1\ConsoleAppFullyQualifiedNames.deps.json
+C:\Users\briwa\Code\DotNetPractice\ConsoleAppFullyQualifiedNames\ConsoleAppFullyQualifiedNames\bin\Debug\netcoreapp3.1\ConsoleAppFullyQualifiedNames.runtimeconfig.json
+C:\Users\briwa\Code\DotNetPractice\ConsoleAppFullyQualifiedNames\ConsoleAppFullyQualifiedNames\bin\Debug\netcoreapp3.1\ConsoleAppFullyQualifiedNames.runtimeconfig.dev.json
+C:\Users\briwa\Code\DotNetPractice\ConsoleAppFullyQualifiedNames\ConsoleAppFullyQualifiedNames\bin\Debug\netcoreapp3.1\ConsoleAppFullyQualifiedNames.dll
+C:\Users\briwa\Code\DotNetPractice\ConsoleAppFullyQualifiedNames\ConsoleAppFullyQualifiedNames\bin\Debug\netcoreapp3.1\ConsoleAppFullyQualifiedNames.pdb
+C:\Users\briwa\Code\DotNetPractice\ConsoleAppFullyQualifiedNames\ConsoleAppFullyQualifiedNames\bin\Debug\netcoreapp3.1\ComputingServices.dll
+C:\Users\briwa\Code\DotNetPractice\ConsoleAppFullyQualifiedNames\ConsoleAppFullyQualifiedNames\bin\Debug\netcoreapp3.1\ComputingServices.pdb
+C:\Users\briwa\Code\DotNetPractice\ConsoleAppFullyQualifiedNames\ConsoleAppFullyQualifiedNames\obj\Debug\netcoreapp3.1\ConsoleAppFullyQualifiedNames.csprojAssemblyReference.cache
+C:\Users\briwa\Code\DotNetPractice\ConsoleAppFullyQualifiedNames\ConsoleAppFullyQualifiedNames\obj\Debug\netcoreapp3.1\ConsoleAppFullyQualifiedNames.AssemblyInfoInputs.cache
+C:\Users\briwa\Code\DotNetPractice\ConsoleAppFullyQualifiedNames\ConsoleAppFullyQualifiedNames\obj\Debug\netcoreapp3.1\ConsoleAppFullyQualifiedNames.AssemblyInfo.cs
+C:\Users\briwa\Code\DotNetPractice\ConsoleAppFullyQualifiedNames\ConsoleAppFullyQualifiedNames\obj\Debug\netcoreapp3.1\ConsoleAppFullyQualifiedNames.csproj.CoreCompileInputs.cache
+C:\Users\briwa\Code\DotNetPractice\ConsoleAppFullyQualifiedNames\ConsoleAppFullyQualifiedNames\obj\Debug\netcoreapp3.1\ConsoleAppFullyQualifiedNames.csproj.CopyComplete
+C:\Users\briwa\Code\DotNetPractice\ConsoleAppFullyQualifiedNames\ConsoleAppFullyQualifiedNames\obj\Debug\netcoreapp3.1\ConsoleAppFullyQualifiedNames.dll
+C:\Users\briwa\Code\DotNetPractice\ConsoleAppFullyQualifiedNames\ConsoleAppFullyQualifiedNames\obj\Debug\netcoreapp3.1\ConsoleAppFullyQualifiedNames.pdb
+C:\Users\briwa\Code\DotNetPractice\ConsoleAppFullyQualifiedNames\ConsoleAppFullyQualifiedNames\obj\Debug\netcoreapp3.1\ConsoleAppFullyQualifiedNames.genruntimeconfig.cache

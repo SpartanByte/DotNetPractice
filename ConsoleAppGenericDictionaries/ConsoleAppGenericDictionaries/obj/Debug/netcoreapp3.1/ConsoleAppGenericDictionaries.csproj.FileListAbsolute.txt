@@ -1,0 +1,13 @@
+C:\Users\Brian\Code\DotNetPractice\ConsoleAppGenericDictionaries\ConsoleAppGenericDictionaries\bin\Debug\netcoreapp3.1\ConsoleAppGenericDictionaries.exe
+C:\Users\Brian\Code\DotNetPractice\ConsoleAppGenericDictionaries\ConsoleAppGenericDictionaries\bin\Debug\netcoreapp3.1\ConsoleAppGenericDictionaries.deps.json
+C:\Users\Brian\Code\DotNetPractice\ConsoleAppGenericDictionaries\ConsoleAppGenericDictionaries\bin\Debug\netcoreapp3.1\ConsoleAppGenericDictionaries.runtimeconfig.json
+C:\Users\Brian\Code\DotNetPractice\ConsoleAppGenericDictionaries\ConsoleAppGenericDictionaries\bin\Debug\netcoreapp3.1\ConsoleAppGenericDictionaries.runtimeconfig.dev.json
+C:\Users\Brian\Code\DotNetPractice\ConsoleAppGenericDictionaries\ConsoleAppGenericDictionaries\bin\Debug\netcoreapp3.1\ConsoleAppGenericDictionaries.dll
+C:\Users\Brian\Code\DotNetPractice\ConsoleAppGenericDictionaries\ConsoleAppGenericDictionaries\bin\Debug\netcoreapp3.1\ConsoleAppGenericDictionaries.pdb
+C:\Users\Brian\Code\DotNetPractice\ConsoleAppGenericDictionaries\ConsoleAppGenericDictionaries\obj\Debug\netcoreapp3.1\ConsoleAppGenericDictionaries.csprojAssemblyReference.cache
+C:\Users\Brian\Code\DotNetPractice\ConsoleAppGenericDictionaries\ConsoleAppGenericDictionaries\obj\Debug\netcoreapp3.1\ConsoleAppGenericDictionaries.AssemblyInfoInputs.cache
+C:\Users\Brian\Code\DotNetPractice\ConsoleAppGenericDictionaries\ConsoleAppGenericDictionaries\obj\Debug\netcoreapp3.1\ConsoleAppGenericDictionaries.AssemblyInfo.cs
+C:\Users\Brian\Code\DotNetPractice\ConsoleAppGenericDictionaries\ConsoleAppGenericDictionaries\obj\Debug\netcoreapp3.1\ConsoleAppGenericDictionaries.csproj.CoreCompileInputs.cache
+C:\Users\Brian\Code\DotNetPractice\ConsoleAppGenericDictionaries\ConsoleAppGenericDictionaries\obj\Debug\netcoreapp3.1\ConsoleAppGenericDictionaries.dll
+C:\Users\Brian\Code\DotNetPractice\ConsoleAppGenericDictionaries\ConsoleAppGenericDictionaries\obj\Debug\netcoreapp3.1\ConsoleAppGenericDictionaries.pdb
+C:\Users\Brian\Code\DotNetPractice\ConsoleAppGenericDictionaries\ConsoleAppGenericDictionaries\obj\Debug\netcoreapp3.1\ConsoleAppGenericDictionaries.genruntimeconfig.cache

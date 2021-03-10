@@ -1,0 +1,9 @@
+C:\Users\briwa\Code\DotNetPractice\ConsoleAppFullyQualifiedNames\ComputingServices\bin\Debug\netcoreapp3.1\ComputingServices.deps.json
+C:\Users\briwa\Code\DotNetPractice\ConsoleAppFullyQualifiedNames\ComputingServices\bin\Debug\netcoreapp3.1\ComputingServices.dll
+C:\Users\briwa\Code\DotNetPractice\ConsoleAppFullyQualifiedNames\ComputingServices\bin\Debug\netcoreapp3.1\ComputingServices.pdb
+C:\Users\briwa\Code\DotNetPractice\ConsoleAppFullyQualifiedNames\ComputingServices\obj\Debug\netcoreapp3.1\ComputingServices.csprojAssemblyReference.cache
+C:\Users\briwa\Code\DotNetPractice\ConsoleAppFullyQualifiedNames\ComputingServices\obj\Debug\netcoreapp3.1\ComputingServices.AssemblyInfoInputs.cache
+C:\Users\briwa\Code\DotNetPractice\ConsoleAppFullyQualifiedNames\ComputingServices\obj\Debug\netcoreapp3.1\ComputingServices.AssemblyInfo.cs
+C:\Users\briwa\Code\DotNetPractice\ConsoleAppFullyQualifiedNames\ComputingServices\obj\Debug\netcoreapp3.1\ComputingServices.csproj.CoreCompileInputs.cache
+C:\Users\briwa\Code\DotNetPractice\ConsoleAppFullyQualifiedNames\ComputingServices\obj\Debug\netcoreapp3.1\ComputingServices.dll
+C:\Users\briwa\Code\DotNetPractice\ConsoleAppFullyQualifiedNames\ComputingServices\obj\Debug\netcoreapp3.1\ComputingServices.pdb

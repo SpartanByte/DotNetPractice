@@ -1,0 +1,13 @@
+C:\Users\Brian\Code\DotNetPractice\ConsoleAppGenericListExample\ConsoleAppGenericListExample\bin\Debug\netcoreapp3.1\ConsoleAppGenericListExample.exe
+C:\Users\Brian\Code\DotNetPractice\ConsoleAppGenericListExample\ConsoleAppGenericListExample\bin\Debug\netcoreapp3.1\ConsoleAppGenericListExample.deps.json
+C:\Users\Brian\Code\DotNetPractice\ConsoleAppGenericListExample\ConsoleAppGenericListExample\bin\Debug\netcoreapp3.1\ConsoleAppGenericListExample.runtimeconfig.json
+C:\Users\Brian\Code\DotNetPractice\ConsoleAppGenericListExample\ConsoleAppGenericListExample\bin\Debug\netcoreapp3.1\ConsoleAppGenericListExample.runtimeconfig.dev.json
+C:\Users\Brian\Code\DotNetPractice\ConsoleAppGenericListExample\ConsoleAppGenericListExample\bin\Debug\netcoreapp3.1\ConsoleAppGenericListExample.dll
+C:\Users\Brian\Code\DotNetPractice\ConsoleAppGenericListExample\ConsoleAppGenericListExample\bin\Debug\netcoreapp3.1\ConsoleAppGenericListExample.pdb
+C:\Users\Brian\Code\DotNetPractice\ConsoleAppGenericListExample\ConsoleAppGenericListExample\obj\Debug\netcoreapp3.1\ConsoleAppGenericListExample.AssemblyInfoInputs.cache
+C:\Users\Brian\Code\DotNetPractice\ConsoleAppGenericListExample\ConsoleAppGenericListExample\obj\Debug\netcoreapp3.1\ConsoleAppGenericListExample.AssemblyInfo.cs
+C:\Users\Brian\Code\DotNetPractice\ConsoleAppGenericListExample\ConsoleAppGenericListExample\obj\Debug\netcoreapp3.1\ConsoleAppGenericListExample.csproj.CoreCompileInputs.cache
+C:\Users\Brian\Code\DotNetPractice\ConsoleAppGenericListExample\ConsoleAppGenericListExample\obj\Debug\netcoreapp3.1\ConsoleAppGenericListExample.dll
+C:\Users\Brian\Code\DotNetPractice\ConsoleAppGenericListExample\ConsoleAppGenericListExample\obj\Debug\netcoreapp3.1\ConsoleAppGenericListExample.pdb
+C:\Users\Brian\Code\DotNetPractice\ConsoleAppGenericListExample\ConsoleAppGenericListExample\obj\Debug\netcoreapp3.1\ConsoleAppGenericListExample.genruntimeconfig.cache
+C:\Users\Brian\Code\DotNetPractice\ConsoleAppGenericListExample\ConsoleAppGenericListExample\obj\Debug\netcoreapp3.1\ConsoleAppGenericListExample.csprojAssemblyReference.cache
